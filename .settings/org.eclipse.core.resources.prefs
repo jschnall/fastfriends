@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//api/utils.py=utf-8
+encoding//venv/lib/python2.7/site-packages/celery/app/base.py=utf-8
+encoding//venv/lib/python2.7/site-packages/celery/app/task.py=utf-8
+encoding//venv/lib/python2.7/site-packages/celery/schedules.py=utf-8
+encoding//venv/lib/python2.7/site-packages/celery/task/__init__.py=utf-8
+encoding//venv/lib/python2.7/site-packages/celery/task/base.py=utf-8
+encoding//venv/lib/python2.7/site-packages/requests/api.py=utf-8

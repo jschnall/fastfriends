@@ -1,0 +1,20 @@
+{"tags":[
+    {"id":1, "name":"Sports", "parent":null},
+    {"id":2, "name":"Climbing", "parent":1},
+    {"id":3, "name":"Running", "parent":1},
+    {"id":4, "name":"Cycling", "parent":1},
+    {"id":5, "name":"Swimming", "parent":1}
+    {"id":6, "name":"Baseball", "parent":1}
+    {"id":7, "name":"Kickball", "parent":1}
+    {"id":8, "name":"Football", "parent":1}
+    {"id":9, "name":"Frisbee", "parent":1}
+    {"id":10, "name":"Golf", "parent":1}
+    {"id":11, "name":"Bocce", "parent":1}
+    {"id":12, "name":"Martial Arts", "parent":1}
+    {"id":13, "name":"Soccer", "parent":1}
+    
+    {"id":14, "name":"Arts & Culture", "parent":null}
+    {"id":15, "name":"Theater", "parent":14}
+    {"id":16, "name":"Film", "parent":14}
+    {"id":17, "name":"Music", "parent":14}        
+]}
